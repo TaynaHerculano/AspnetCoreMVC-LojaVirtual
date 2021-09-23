@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ttata\\Desktop\\Programação\\AspnetCoreMVC-LojaVirtual\\Seção 02\\curso\\curso.csproj": {}
+    "C:\\Users\\ttata\\Desktop\\Programação\\AspnetCoreMVC-LojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ttata\\Desktop\\Programação\\AspnetCoreMVC-LojaVirtual\\Seção 02\\curso\\curso.csproj": {
+    "C:\\Users\\ttata\\Desktop\\Programação\\AspnetCoreMVC-LojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ttata\\Desktop\\Programação\\AspnetCoreMVC-LojaVirtual\\Seção 02\\curso\\curso.csproj",
-        "projectName": "curso",
-        "projectPath": "C:\\Users\\ttata\\Desktop\\Programação\\AspnetCoreMVC-LojaVirtual\\Seção 02\\curso\\curso.csproj",
+        "projectUniqueName": "C:\\Users\\ttata\\Desktop\\Programação\\AspnetCoreMVC-LojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC.csproj",
+        "projectName": "EstruturaMVC",
+        "projectPath": "C:\\Users\\ttata\\Desktop\\Programação\\AspnetCoreMVC-LojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC.csproj",
         "packagesPath": "C:\\Users\\ttata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ttata\\Desktop\\Programação\\AspnetCoreMVC-LojaVirtual\\Seção 02\\curso\\obj\\",
+        "outputPath": "C:\\Users\\ttata\\Desktop\\Programação\\AspnetCoreMVC-LojaVirtual\\Seção 06\\EstruturaMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\ttata\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,14 +23,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -40,23 +41,23 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.1, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.2, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },

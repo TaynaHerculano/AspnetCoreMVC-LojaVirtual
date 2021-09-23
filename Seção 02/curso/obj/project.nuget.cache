@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UFR7TEQd4OJ+KO4F9pzSD+W31hLS3sPw8GjuSOaY7U5Kr/G35ZnSjKcjfNl9/eVX2o4rNsUpW3QgzfjvMiY3aA==",
+  "dgSpecHash": "h6ozs7DM27Na/Vey0UlxgkwSM8ktD9syZQbcAn/NKazbk27qAMOxw9Kd00kDk7daKQxtT9jcPbUBAiDjPKWzQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ttata\\source\\repos\\curso\\curso.csproj",
+  "projectFilePath": "C:\\Users\\ttata\\Desktop\\Programação\\AspnetCoreMVC-LojaVirtual\\Seção 02\\curso\\curso.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ttata\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\ttata\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
